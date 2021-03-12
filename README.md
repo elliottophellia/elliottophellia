@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MeawMawz</h1>
+<h1 align="center">Hi 👋, I'm Eilaluth</h1>
 <h3 align="center">A lonely and depressed weebs</h3>
 
 - 🔭 I’m currently working on [Koyomi](https://t.me/KoyomiNaoBot)

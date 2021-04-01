@@ -15,28 +15,36 @@
     <li>Riho Flavin</li>
     <li>Aya Komichi</li>
     <li>Mio Akiyama</li>
+    <li>Shizuku Yaegashi</li>
     <li>Vignette Tsukinose April</li>
     <li>Yui Funami</li>
-    <li>Yui Ichii</li>
+    <li>Yui Kotegawa</li>
   </ul>
 </details>
 <details>
  <summary>[💘] My Oshi</summary>
   <br/>
   <ul>
+    <li>Ayane Sakura</li>
+    <li>Ai Kayano</li>
     <li>Risa Taneda</li>
     <li>Kaede Hondo</li>
     <li>Minami Tsuda</li>
+    <li>Maaya Uchida</li>
+    <li>Saori Hayami</li>
   </ul>
 </details>
 <details>
- <summary>[🌎] My Socmed</summary>
+ <summary>[🌎] My PCSpecs</summary>
   <br/>
   <ul>
-    <li><a href="https://instagram.com/Eilaluth/">Instagram</a></li>
-    <li><a href="https://facebook.com/Eilaluth/">Facebook</a></li>
-    <li><a href="https://t.me/Eilaluth/">Telegram</a></li>
-    <li><a href="https://twitter.com/Eilaluth/">Twitter</a></li>
-    <li><a href="mailto:reidhoo@sgbteam.id">Email</a></li>
+    <li>OS : Windows 10 Nexus Lite</li>
+    <li>CPU : AMD Athlon X4 860K (OC)</li>
+    <li>GPU : ASUS GTX 1050Ti</li>
+    <li>RAM : 8GB DDR3L</li>
+    <li>SSD : ADATA 120GB</li>
+    <li>HDD : SEAGATE 500GB</li>
+    <li>PSU : FSP HV PRO 550w</li>
+    <li>MOBO : BIOSTAR A68MDE</li>
   </ul>
 </details>

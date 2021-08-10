@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eilaluth</h1>
 <h3 align="center">A lonely and depressed weebs</h3>
 <details>
- <summary>[⁉️] About me!</summary>
- <br/>
- im just a highschool student who loves anime and manga,, well just a normal highschool weebs nothing else, also my favorit food is sate, nice to meet you!
-</details>
-<details>
  <summary>[❤️] My Waifu</summary>
   <br/>
   <ul>
@@ -39,9 +34,9 @@
   <br/>
   <ul>
     <li>OS : Windows 10 Nexus Lite</li>
-    <li>CPU : AMD Athlon X4 860K (OC)</li>
+    <li>CPU : AMD Athlon X4 860K</li>
     <li>GPU : ASUS GTX 1050Ti</li>
-    <li>RAM : 8GB DDR3L</li>
+    <li>RAM : 16GB DDR3L</li>
     <li>SSD : ADATA 120GB</li>
     <li>HDD : SEAGATE 500GB</li>
     <li>PSU : FSP HV PRO 550w</li>

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eilaluth</h1>
-<h3 align="center">A lonely and depressed weebs</h3>
+<h1 align="center"><br/>Hi 👋, I'm Eilaluth</h1>
+<h3 align="center"><img src="https://discord.c99.nl/widget/theme-4/444776181473214465.png"/><br/><img src="https://lemmmy.pw/osusig/sig.php?colour=hex31D1B0&uname=Eilaluth&pp=1&countryrank&rankedscore&onlineindicator=undefined&xpbar&xpbarhex"/></h3>
 <details>
  <summary>[❤️] My Waifu</summary>
   <br/>

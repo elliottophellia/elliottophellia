@@ -1,5 +1,6 @@
 <h1 align="center"><br/>Hi 👋, I'm Eilaluth</h1>
-<h3 align="center"><img src="https://discord.c99.nl/widget/theme-4/444776181473214465.png"/><br/><img src="https://lemmmy.pw/osusig/sig.php?colour=hex31D1B0&uname=Eilaluth&pp=1&countryrank&rankedscore&onlineindicator=undefined&xpbar&xpbarhex"/></h3>
+<h3 align="center"><img src="https://discord.c99.nl/widget/theme-4/444776181473214465.png"/><br/>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"/></h3>
 <details>
  <summary>[❤️] My Waifu</summary>
   <br/>

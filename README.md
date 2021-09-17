@@ -4,21 +4,7 @@
 <div>
 <h2 align="left">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮~</h2>
 <img src="https://raw.githubusercontent.com/Eilaluth/Eilaluth/main/img/kotegawa-rs.gif" width="160" align="right" />
-<li>
-<b>Name:</b> Reidho
-</li>
-<li>
-<b>Love:</b> Eat as much as i can
-</li>
-<li>
-<b>Gender:</b> He/Him/Male
-</li>
-<li>
-<b>Hobby:</b> Sleep as much as i can
-</li>
-<li>
-<b>Studies:</b> <a href="https://smkn4palembang.sch.id/" >Computer and Network Engineering</a>
-</li>
+<img src="https://metrics.lecoq.io/Eilaluth?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta" />
 <br />
 <br />
 <br />

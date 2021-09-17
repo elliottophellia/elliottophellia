@@ -1,23 +1,23 @@
-<h1 align="center"><br />~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<h3 align="center"><img src="https://discord.c99.nl/widget/theme-4/444776181473214465.png" /><br />
+<h1 align="center"><br />~ 🎀 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🎀 ~</h1>
+<h3 align="center"><img src="https://discord.c99.nl/widget/theme-5/444776181473214465.png" /><br />
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" /> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" /></h3>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="left">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮~</h2>
 <img src="https://raw.githubusercontent.com/Eilaluth/Eilaluth/main/img/kotegawa-rs.gif" width="160" align="right" />
 <li>
-<b>Name:</b> Rei
+<b>Name:</b> Reidho
 </li>
 <li>
-<b>Loves:</b> Manga, Anime, Game And LightNovel
+<b>Love:</b> Eat as much as i can
 </li>
 <li>
 <b>Gender:</b> He/Him/Male
 </li>
 <li>
-<b>Hobbys:</b> Make Waifu Bot
+<b>Hobby:</b> Sleep as much as i can
 </li>
 <li>
-<b>Studies:</b> Computer and Network Engineering
+<b>Studies:</b> <a href="https://smkn4palembang.sch.id/" >Computer and Network Engineering</a>
 </li>
 <br />
 <br />
@@ -79,11 +79,11 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/62974.jpg" /></td>
-      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/60503.jpg" /></td>
-      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/1/65143.jpg" /></td>
-      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/64320.jpg" /></td>
-      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/61304.jpg" /></td>
+      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/62974.jpg" /></td>
+      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/60503.jpg" /></td>
+      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/1/65143.jpg" /></td>
+      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/64320.jpg" /></td>
+      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/61304.jpg" /></td>
     </tr>
     <tr>
       <td class="tg-0lax">Tsuda Minami</td>
@@ -93,11 +93,11 @@
       <td class="tg-0lax">Ohara Sayaka</td>
     </tr>
     <tr>
-      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/35965.jpg" /></td>
-      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/63414.jpg" /></td>
-      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/63373.jpg" /></td>
-      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/1/62797.jpg" /></td>
-      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/1/54698.jpg" /></td>
+      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/35965.jpg" /></td>
+      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/63414.jpg" /></td>
+      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/63373.jpg" /></td>
+      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/1/62797.jpg" /></td>
+      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/1/54698.jpg" /></td>
     </tr>
   </tbody>
 </table>

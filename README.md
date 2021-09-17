@@ -5,7 +5,7 @@
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <img src="https://raw.githubusercontent.com/Eilaluth/Eilaluth/main/img/kotegawa-rs.gif" width="160" align="right"/>
 <li>
-<b>Name:</b> Rei</li>
+<b>Name:</b> Rei
 </li>
 <li>
 <b>Loves:</b> Manga, Anime, Game And LightNovel

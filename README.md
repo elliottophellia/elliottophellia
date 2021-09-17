@@ -79,11 +79,11 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/62974.jpg" /></td>
-      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/60503.jpg" /></td>
-      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/1/65143.jpg" /></td>
-      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/64320.jpg" /></td>
-      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/61304.jpg" /></td>
+      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/62974.jpg" /></td>
+      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/60503.jpg" /></td>
+      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/1/65143.jpg" /></td>
+      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/64320.jpg" /></td>
+      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/61304.jpg" /></td>
     </tr>
     <tr>
       <td class="tg-0lax">Tsuda Minami</td>
@@ -93,11 +93,11 @@
       <td class="tg-0lax">Ohara Sayaka</td>
     </tr>
     <tr>
-      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/35965.jpg" /></td>
-      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/63414.jpg" /></td>
-      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/3/63373.jpg" /></td>
-      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/1/62797.jpg" /></td>
-      <td class="tg-0lax"><img width="105" src="https://cdn.myanimelist.net/images/voiceactors/1/54698.jpg" /></td>
+      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/35965.jpg" /></td>
+      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/63414.jpg" /></td>
+      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/3/63373.jpg" /></td>
+      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/1/62797.jpg" /></td>
+      <td class="tg-0lax"><img width="100" src="https://cdn.myanimelist.net/images/voiceactors/1/54698.jpg" /></td>
     </tr>
   </tbody>
 </table>

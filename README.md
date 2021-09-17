@@ -13,6 +13,7 @@
 <br />
 </div>
 <p><img src="https://shields.io/badge/MY-WAIFU%20LIST-white?style=for-the-badge" align="left" /></p>
+<br/>
 <div align="left">
 <table class="tg">
   <thead align="center">

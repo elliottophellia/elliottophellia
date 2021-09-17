@@ -26,11 +26,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 </div>
-<img src="https://shields.io/badge/Y%20U%20I-M%20Y%20W%20%20I%20F%20E-white?style=for-the-badge" align="right">
+<img src="https://shields.io/badge/MY-WAIFU%20LIST-white?style=for-the-badge" align="left">
 <div align="left">
 <table class="tg">
   <thead align="center">

@@ -1,3 +1,18 @@
+<style>
+  
+.alignMe b {
+  display: inline-block;
+  width: 10%;
+  position: relative;
+  padding-right: 10px; /* Ensures colon does not overlay the text */
+}
+
+.alignMe b::after {
+  content: ":";
+  position: absolute;
+  right: 10px;
+}
+</style>
 <h1 align="center"><br />𝐸𝒾𝓁𝒶𝓁𝓊𝓉𝒽</h1>
 <h3 align="center"><img src="https://discord.c99.nl/widget/theme-5/444776181473214465.png" /><br />
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" /> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" /></h3>

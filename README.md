@@ -9,7 +9,7 @@
 <li><b>Like</b>: Sleeping</li>
 <li><b>Love</b>: Eating</li>
 <li><b>Hobby</b>: Gaming</li>
-<li><b>Studies</b><a href="https://smkn4palembang.sch.id/">: Computer Engineering</a></li>
+<li><b>Studying</b>: Javascript, ±1 month</li>
 </ul>
 <br />
 <br />

@@ -16,7 +16,7 @@
 <li><b>Like</b>: Sleeping</li>
 <li><b>Love</b>: Eating</li>
 <li><b>Hobby</b>: Gaming</li>
-<li><b>Studying</b>: Javascript, ±1 month</li>
+<li><b>Studying</b>: Javascript, NodeJS, ExpressJS, and Typescript</li>
 </ul>
 <br />
 <br />

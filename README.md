@@ -1,6 +1,13 @@
 <h1 align="center"><br />𝐸𝒾𝓁𝒶𝓁𝓊𝓉𝒽</h1>
-<h3 align="center"><img src="https://discord.c99.nl/widget/theme-4/444776181473214465.png" /><br />
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" /> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" /></h3>
+<h3 align="center">
+<img src="https://discord.c99.nl/widget/theme-4/444776181473214465.png" /><br />
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" /> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" /> 
+<img src="https://img.shields.io/badge/AutoHotkey-334455.svg?style=for-the-badge&logo=AutoHotkey&logoColor=white" />
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+</h3>
 <div>
 <h2 align="left">𝒜𝒷𝑜𝓊𝓉 𝓂𝑒~</h2>
 <img src="https://raw.githubusercontent.com/Eilaluth/Eilaluth/main/img/kotegawa-rs.gif" width="160" align="right" />

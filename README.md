@@ -99,11 +99,3 @@
   </tbody>
 </table>
 </div>
-<div>
-<h2 align="left">𝒫𝓇𝑜𝒿𝑒𝒸𝓉~</h2>
- <ul>
-  <li><a href="https://github.com/Eilaluth/Ei">Ei</a> - Discord.JS v11</li>
-  <li><a href="https://github.com/Eilaluth/Kotegawa">Kotegawa</a> - Discord.JS v12</li>
-  <li><a href="https://github.com/Eilaluth/Ayano">Ayano</a> - Discord.JS v13</li>
-</ul>
-</div>

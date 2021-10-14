@@ -1,25 +1,35 @@
 <h1 align="center"><br />𝐸𝒾𝓁𝒶𝓁𝓊𝓉𝒽</h1>
 <h3 align="center">
 <img src="https://discord.c99.nl/widget/theme-4/444776181473214465.png" /><br />
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white"/> 
-<img src="https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&amp;logo=Express&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" /> 
+<img src="https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&amp;logo=Express&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" />
 </h3>
 <div>
 <h2 align="left">𝒜𝒷𝑜𝓊𝓉 𝓂𝑒~</h2>
 <img src="https://raw.githubusercontent.com/Eilaluth/Eilaluth/main/img/kotegawa-rs.gif" width="160" align="right" />
-<ul>
-<li><b>Name</b>: Reidho Satria</li>
-<li><b>Like</b>: Sleeping</li>
-<li><b>Love</b>: Eating</li>
-<li><b>Hobby</b>: Gaming</li>
-<li><b>Studying</b>: Javascript, NodeJS, ExpressJS, and Typescript</li>
-</ul>
-<br />
-<br />
-<br />
-<br />
-<br />
+  
+```javascript
+const about_me = {
+    "name": "reidho satria",
+    "skils": {
+        "languages": [
+              {"name": "javascript"}
+        ],
+        "framework": [
+              {"name": "node"},
+              {"name": "express"}
+        ]
+    },
+    "projects": [
+        {"project_name": "ayano","project_url": "https://github.com/Eilaluth/Ayano"},
+        {"project_name": "kyoko","project_url": "https://github.com/Eilaluth/Kyoko"}
+    ]
+};
+console.log(about_me);
+
+```
+
 <br />
 </div>
 <p><img src="https://shields.io/badge/MY-WAIFU%20LIST-white?style=for-the-badge" align="left" /></p>

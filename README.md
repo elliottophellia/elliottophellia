@@ -4,18 +4,27 @@
 ```javascript
 const about_me = {
     "name": "reidho satria",
-    "skils": {
-        "languages": [
-              {"name": "javascript"}
-        ],
-        "framework": [
-              {"name": "node"},
-              {"name": "express"}
-        ]
-    },
+    "skils": [
+        {
+            "javascript": {
+                "nodejs": [
+                    {
+                        "framework": ["expressjs"]
+                    }
+                ]
+            },
+            "CSS": {
+                "framework": ["bulma","bootstrap","purecss"]
+            }
+        }
+    ],
     "projects": [
-        {"project_name": "ayano","project_url": "https://github.com/Eilaluth/Ayano"},
-        {"project_name": "kyoko","project_url": "https://github.com/Eilaluth/Kyoko"}
+        {
+            "project_name": "ayano","project_url": "https://github.com/Eilaluth/Ayano"
+        },
+        {
+            "project_name": "kyoko","project_url": "https://github.com/Eilaluth/Kyoko"
+        }
     ]
 };
 console.log(about_me);

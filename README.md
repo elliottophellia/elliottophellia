@@ -14,7 +14,7 @@ const about_me = {
                 ]
             },
             "css": {
-                "framework": ["bulma","bootstrap","purecss"]
+                        "framework": ["bulma","bootstrap","purecss"]
             }
         }
     ],

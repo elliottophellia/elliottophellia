@@ -6,7 +6,7 @@ const about_me = {
     "name": "reidho satria",
     "skils": [
         {
-            "javascript": {
+            "javascript/typescript": {
                 "nodejs": [
                     {
                         "framework": ["expressjs"]

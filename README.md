@@ -12,9 +12,6 @@ const about_me = {
                         "framework": ["expressjs"]
                     }
                 ]
-            },
-            "css": {
-                        "framework": ["bulma","bootstrap","purecss"]
             }
         }
     ],

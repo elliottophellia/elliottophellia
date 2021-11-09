@@ -1,7 +1,7 @@
 <div>
 <img src="./img/Profile.png" width="300" align="right" />
 
-<img src="./img/AboutMe.png" width="500" align="left" />
+<img src="./img/AboutMe.png" width="500" />
 
 - Name **Reidho Satria**
 

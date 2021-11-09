@@ -1,9 +1,6 @@
 <div>
 <img src="./img/Profile.png" width="300" align="right" />
-
-<br/>
 <img src="./img/AboutMe.png" width="500" align="left" />
-<br />
 <br />
 <br />
 <br />

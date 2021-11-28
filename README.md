@@ -1,7 +1,7 @@
 <div>
-<img src="./img/Profile.png" width="300" align="right" />
+<img src="./img/Profile-elaina.png" width="300" align="right" />
 <br/>
-<img src="./img/AboutMe.png" width="500" />
+<img src="./img/AboutMe-elaina.png" width="500" />
 <br/>
 <br/>
   
@@ -18,7 +18,7 @@
 - Understand 日本語, Bahasa, & English
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
-<img src="./img/Repo.png" width="500" />
+<img src="./img/Repo-elaina.png" width="500" />
 <br/>
 <br/>
   

@@ -16,7 +16,7 @@
 - Have experience with **Photoshop** & **Premiere**
 
 - Understand 日本語, Bahasa, & English
-<img src="./img/Waifu.png" width="300" align="right" />
+<img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo.png" width="500" />
 <br/>

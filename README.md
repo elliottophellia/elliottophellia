@@ -17,7 +17,7 @@
   
 - Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Void** and **OpenSUSE**
 
-- Understand 日本語(N5), Bahasa(Native), & English(Fluent)
+- Understand 日本語 (N5), Bahasa (Native), and English (Fluent)
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />

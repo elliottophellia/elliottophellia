@@ -2,7 +2,7 @@
 <div>
 <img width="340" src="https://github-readme-stats.vercel.app/api?username=elliottophellia&show_icons=false&include_all_commits=true&count_private=true&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reidho's+Github+Stats&theme=transparent&hide_border=true&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="490" />
+<img src="./img/AboutMe-elaina.png" width="480" />
 <br/>
 <br/>
 <br/>
@@ -24,7 +24,7 @@
 
 <br/>
 <br/>
-<img src="./img/Repo-elaina.png" width="490" />
+<img src="./img/Repo-elaina.png" width="480" />
 <br/>
 <br/>
   

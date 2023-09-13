@@ -1,13 +1,12 @@
 <img src="https://i.ibb.co/TYJdkVf/pp2.png" width="100%" alt="profile" border="0"/>
 <div>
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=elliottophellia&show_icons=false&include_all_commits=true&count_private=true&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reidho's+Github+Stats&theme=transparent&hide_border=true&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
+<img width="340" src="https://github-readme-stats.vercel.app/api?username=elliottophellia&show_icons=false&include_all_commits=true&count_private=true&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reidho's+Github+Stats&theme=transparent&hide_border=true&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
 <br/>
 <img src="./img/AboutMe-elaina.png" width="500" />
 <br/>
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
-
 
 - Name **Reidho Satria** / **レイドー サトリア**
 
@@ -23,8 +22,6 @@
   
 - Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
 
-
-<!--<img src="./img/Waifu-elainaa.png" width="300" align="right" />-->
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />

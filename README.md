@@ -1,43 +1,54 @@
+<img src="https://i.ibb.co/TYJdkVf/pp2.png" width="100%" alt="profile" border="0"/>
 <div>
-<img src="./img/Profile-elaina.png" width="300" align="right" />
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=elliottophellia&show_icons=false&include_all_commits=true&count_private=true&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reidho's+Github+Stats&theme=transparent&hide_border=true&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
 <br/>
 <img src="./img/AboutMe-elaina.png" width="500" />
 <br/>
 <br/>
-  
-- Name **Reidho Satria**
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
 
-- Live in **Palembang, Indonesia**
 
-- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
+- Name **Reidho Satria** / **レイドー サトリア**
 
-- Good with **Javascript** , **Typescript** , **PHP** , **Bash** , **CSS** , **HTML** and **Python**
+- Live in **South Sumatra, Indonesia**
+
+- Studying [**Junior Back-End Developer**](https://dicoding.com)
+
+- Familiar with **GNU/Linux** and **FreeBSD**
+
+- Good with **JavaScript** , **PHP** , **CSS** , **HTML** and **Python**
 
 - Have high experience with **Photoshop** and **CorelDRAW**
   
-- Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Void** and **OpenSUSE**
+- Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
 
-- Understand 日本語 (N5), Bahasa (Native), and English (Fluent)
-<img src="./img/Waifu-elainaa.png" width="300" align="right" />
+
+<!--<img src="./img/Waifu-elainaa.png" width="300" align="right" />-->
+<br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />
 <br/>
 <br/>
   
-- 📗 [***Elliottophellia/ayano***](https://github.com/Elliottophellia/ayano) <br/>
-  A multipurpose bot for anything with 69 commands!
-- 📘 [***Elliottophellia/kyoko***](https://github.com/Elliottophellia/kyoko) <br/>
-  Random anime pictures and quotes API, Toshino Kyoko.
-- 📙 [***Elliottophellia/ophellia***](https://github.com/Elliottophellia/ophellia) <br/>
-  A simple webshell build in PHP 7.4 for penetration testing and educational purposes only.
-- 📒 [***Elliottophellia/mocha***](https://github.com/Elliottophellia/mocha) <br/>
-  A discord selfbot designed to bumping disboard.org every 2 hours.
-
+- 📗 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
+  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
+- 📘 [***elliottophellia/kyoko***](https://github.com/elliottophellia/kyoko) <br/>
+  Generate Random Anime Pictures & Quotes, Trace Anime Screenshot To Find The Source, And Find Detail Information About Any Anime Titles!
+- 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
+  A simple webshell build in PHP 7 for penetration testing and educational purposes only. ( it's not other webshell's recode )
+- 📒 [***elliottophellia/tulip***](https://github.com/elliottophellia/tulip) <br/>
+  Unlimited, fast, and easy Reverse IP Lookup with nice looking GUI and portable .exe
+  
+<img src="https://i.ibb.co/7Yhk4c7/pp1.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
-  
-<sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
-<!--
-<img src="https://metrics.lecoq.io/Eilaluth?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=Eilaluth%2FAyano%2CEilaluth%2FKyoko%2CEilaluth%2FKanna%2CEilaluth%2FHotaru%2CEilaluth%2FMocha&config.timezone=Asia%2FJakart"  />
--->
+<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
+<br/><br/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<br/><br/>
+<p align='center'>
+<a href="#"><img src="https://img.shields.io/badge/%23-2e3440?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-2e3440?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-2e3440?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-2e3440?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-2e3440?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-2e3440?style=for-the-badge"/></a>
+</p>
+<img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=316muyulax4oajnuagqy2h3te6gu&cover_image=true&theme=novatorem&show_offline=false&background_color=22272e&interchange=false&bar_color=539bf5&bar_color_cover=false"/>
 </div>

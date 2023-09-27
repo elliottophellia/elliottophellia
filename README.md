@@ -1,6 +1,6 @@
-<img src="https://i.ibb.co/TYJdkVf/pp2.png" width="100%" alt="profile" border="0"/>
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
 <div>
-<img width="337" src="https://i.ibb.co/HVcDqJL/pp3.png" align=right />
+<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
 <br/>
 <img src="./img/AboutMe-elaina.png" width="488" />
 <br/>
@@ -21,7 +21,7 @@
   
 - Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />
@@ -37,7 +37,7 @@
 - 📒 [***elliottophellia/tulip***](https://github.com/elliottophellia/tulip) <br/>
   Unlimited, fast, and easy Reverse IP Lookup with nice looking GUI and portable .exe
   
-<img src="https://i.ibb.co/7Yhk4c7/pp1.png" width="270" align="right" />
+<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>

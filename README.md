@@ -34,7 +34,7 @@
   Generate Random Anime Pictures & Quotes, Trace Anime Screenshot To Find The Source, And Find Detail Information About Any Anime Titles!
 - 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
   A simple webshell build in PHP 7 for penetration testing and educational purposes only. ( it's not other webshell's recode )
-- 📒 [***elliottophellia/tulip***](https://github.com/elliottophellia/kaga) <br/>
+- 📒 [***elliottophellia/kaga***](https://github.com/elliottophellia/kaga) <br/>
   Kaga is a reverse IP lookup tool written in Python, comes with a CLI, GUI and API to make it easy to use in any environment.
   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />

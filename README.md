@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- Name **Reidho Satria** / **レイドー サトリア**
+- Name **Reidho Satria** / **レイドー・サトリア**
 
 - Live in **South Sumatra, Indonesia**
 
@@ -34,15 +34,15 @@
   Generate Random Anime Pictures & Quotes, Trace Anime Screenshot To Find The Source, And Find Detail Information About Any Anime Titles!
 - 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
   A simple webshell build in PHP 7 for penetration testing and educational purposes only. ( it's not other webshell's recode )
-- 📒 [***elliottophellia/tulip***](https://github.com/elliottophellia/tulip) <br/>
-  Unlimited, fast, and easy Reverse IP Lookup with nice looking GUI and portable .exe
+- 📒 [***elliottophellia/tulip***](https://github.com/elliottophellia/kaga) <br/>
+  Kaga is a reverse IP lookup tool written in Python, comes with a CLI, GUI and API to make it easy to use in any environment.
   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
 <br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&theme=darkhub" align="center"/>
 <br/><br/>
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-2e3440?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-2e3440?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-2e3440?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-2e3440?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-2e3440?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-2e3440?style=for-the-badge"/></a>

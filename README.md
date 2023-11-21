@@ -30,8 +30,8 @@
   
 - 📗 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
   Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
-- 📘 [***elliottophellia/kyoko***](https://github.com/elliottophellia/kyoko) <br/>
-  Generate Random Anime Pictures & Quotes, Trace Anime Screenshot To Find The Source, And Find Detail Information About Any Anime Titles!
+- 📘 [***elliottophellia/yakumo***](https://github.com/elliottophellia/yakumo) <br/>
+  FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5
 - 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
   A simple webshell build in PHP 7 for penetration testing and educational purposes only. ( it's not other webshell's recode )
 - 📒 [***elliottophellia/kaga***](https://github.com/elliottophellia/kaga) <br/>

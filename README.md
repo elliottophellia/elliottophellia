@@ -15,7 +15,7 @@
 
 - Familiar with **GNU/Linux** and **FreeBSD**
 
-- Good with **JavaScript** , **PHP** , **CSS** , **HTML** and **Python**
+- Good with **JavaScript** , **TypeScript** , **PHP** , **Go** , and **Python**
 
 - Have high experience with **Photoshop** and **CorelDRAW**
   

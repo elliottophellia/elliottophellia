@@ -11,7 +11,7 @@
 
 - Residing in: **South Sumatra, Indonesia**
 
-- Field of Study: **Computer Science**
+- Field of Study: [**Computer Science**](https://if.uigm.ac.id/home/)
 
 - Proficient in: **GNU/Linux** and **FreeBSD**
 
@@ -35,8 +35,7 @@
 - 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
   A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
 - 📒 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
-  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
-  
+  Aizawa is a command-line webshell designed to execute commands through HTTP header   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>

@@ -32,21 +32,19 @@
   The Ultimate Checked Proxy List - Update Every 20 Minutes
 - 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
   The Ultimate Advertisement List - Update Weekly
-- 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
-  A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
-- 📒 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
-  Aizawa is a command-line webshell designed to execute commands through HTTP header   
+- 📙 [***elliottophellia/revanced***](https://github.com/elliottophellia/revanced) <br/>
+  Always-up-to-date ReVanced apps, automatically built and maintained via continuous integration. Never miss a new version.
+- 📒 [***elliottophellia/packages***](https://github.com/elliottophellia/packages) <br/>
+  Personal Fedora RPM repository with automatically maintained packages. Always up-to-date, synced daily via continuous integration.
 <img src="./img/tunjuk.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
 <br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&theme=darkhub" align="center"/>
 <br/><br/>
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
 <img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
 </div>
-
-[<img src="https://api.gitsponsors.com/api/badge/img?id=346749557" height="20">](https://api.gitsponsors.com/api/badge/link?p=JkDWF0gOVEimlkpCoj9xdBoXWRGMbNfC0sdrwf6txoPa2MbIgkrRU/ljgEoDE4FbnuOrOOGP6M3FRH0FiNXgAzbxT/vy0OFdhjDMmPjK/hX7U4wVUoW0rlYMC+8edaOCPVsffLSP6WXb0NnBzHcqgmp2sGBh5gMJiqIgtICOspk=)

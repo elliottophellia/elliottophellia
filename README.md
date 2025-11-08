@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:8B6144,100:C4A580&height=200&section=header&text=Ophellia%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Analyst%20|%20Network%20Security%20Engineer%20|%20GNU/Linux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 <div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:8B6144,100:C4A580&height=200&section=header&text=Ophellia%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Analyst%20|%20Network%20Security%20Engineer%20|%20GNU/Linux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 <img width="337" src="./img/senyum.png" align=right />
 <br/>
 <img src="./img/AboutMe-elaina.png" width="488" />

@@ -13,7 +13,7 @@
 
 - Field of Study: [**Computer Science**](https://if.uigm.ac.id/home/)
 
-- Proficient in: **GNU/Linux**, **FreeBSD**, and other **Unix-like** operating system.
+- Proficient in: **GNU/Linux**, **FreeBSD**, and other **Unix-like** system.
 
 - Skilled in: **JavaScript**, **TypeScript**, **PHP**, **Go**, **Rust**, and **Python**
 

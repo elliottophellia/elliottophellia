@@ -7,19 +7,19 @@
 <br/>
 <br/>
 
-- Name: **Reidho Satria** / **レイドー・サトリア**
+- Name: **Reidho Satria** / **レイドー・サトリア**.
 
-- Location: **South Sumatra, Indonesia**
+- Location: **South Sumatra, Indonesia**.
 
-- Studying: [**Computer Science**](https://if.uigm.ac.id/home/)
+- Studying: [**Computer Science**](https://if.uigm.ac.id/home/).
 
 - System: **GNU/Linux**, **FreeBSD**, and other **Unix-like** system.
 
 - Languages: **TypeScript**, **Python**, **PHP**, and **Rust**.
 
-- Tools: **Nmap**, **SQLMap**, **Metasploit**, and **others**
+- Tools: **Nmap**, **SQLMap**, **Metasploit**, and **others**.
 
-- Speaks: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
+- Speaks: Bahasa Indonesia, Bahasa Melayu, English, and 日本語.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>

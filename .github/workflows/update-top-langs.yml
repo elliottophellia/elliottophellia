@@ -1,4 +1,4 @@
-name: Update Top Languages (pie)
+name: Update Top Languages
 
 on:
   schedule:
@@ -25,7 +25,7 @@ jobs:
         with:
           card: top-langs
           options: "username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true"
-          path: profile/top-langs.svg
+          path: img/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit card

@@ -21,7 +21,7 @@
 
 - Speaks: Bahasa Indonesia, Bahasa Melayu, English, and 日本語.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<img src="./img/top-langs.svg" align=right />
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />

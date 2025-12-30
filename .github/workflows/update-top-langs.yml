@@ -1,0 +1,39 @@
+name: Update Top Languages (pie)
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate top languages card (pie)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: >-
+            username=elliottophellia
+            &layout=pie
+            &hide_border=true
+            &langs_count=5
+            &theme=transparent
+            &title_color=539BF5
+            &text_color=ADBAC7
+            &text_bold=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit card
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/top-langs.svg
+          git commit -m "chore: update top languages card" || exit 0
+          git push

@@ -14,19 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Use Node 22 (required by action deps)
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
       - name: Generate top languages card (pie)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: >-
-            username=elliottophellia
-            &layout=pie
-            &hide_border=true
-            &langs_count=5
-            &theme=transparent
-            &title_color=539BF5
-            &text_color=ADBAC7
-            &text_bold=true
+          options: "username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

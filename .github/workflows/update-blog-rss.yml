@@ -1,0 +1,35 @@
+name: Update Blog RSS
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download script
+        run: curl -sSfL https://cdn.rei.my.id/script/update_rss.py -o update_rss.py
+
+      - name: Update blog RSS in README
+        run: python update_rss.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update blog RSS feed" || exit 0
+          git push

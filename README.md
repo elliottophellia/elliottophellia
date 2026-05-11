@@ -27,16 +27,16 @@
 <br/>
   
 <!-- BLOG_RSS_START -->
-- 🦋 [***DawgCTF 2026 - I Hate Physics! - Cryptography Writeup***](https://blog.rei.my.id/posts/139/dawgctf-2026-i-hate-physics-cryptography-writeup/)
+- 🦋 [***How I Found a Vulnerability in a Vibe-Coded Proxy Site and Built a Fetcher to Exploit It***](https://blog.rei.my.id/posts/147/how-i-found-a-vulnerability-in-a-vibe-coded-proxy-site/)
 - 🦋 [***DawgCTF 2026 - Machine Learnding - Reverse Engineering Writeup***](https://blog.rei.my.id/posts/140/dawgctf-2026-machine-learnding-reverse-engineering-writeup/)
 - 🦋 [***DawgCTF 2026 - Locksmith - OSINT Writeup***](https://blog.rei.my.id/posts/142/dawgctf-2026-locksmith-osint-writeup/)
-- 🦋 [***DawgCTF 2026 - owo? - OSINT Writeup***](https://blog.rei.my.id/posts/143/dawgctf-2026-owo-osint-writeup/)
 - 🦋 [***DawgCTF 2026 - Computer Repair III - OSINT Writeup***](https://blog.rei.my.id/posts/141/dawgctf-2026-computer-repair-iii-osint-writeup/)
+- 🦋 [***DawgCTF 2026 - owo? - OSINT Writeup***](https://blog.rei.my.id/posts/143/dawgctf-2026-owo-osint-writeup/)
 - 🦋 [***DawgCTF 2026 - The Lookout's Legend - OSINT Writeup***](https://blog.rei.my.id/posts/144/dawgctf-2026-the-lookouts-legend-osint-writeup/)
 - 🦋 [***DawgCTF 2026 - Plane Spotting Pt. 1 - OSINT Writeup***](https://blog.rei.my.id/posts/145/dawgctf-2026-plane-spotting-pt-1-osint-writeup/)
+- 🦋 [***DawgCTF 2026 - I Hate Physics! - Cryptography Writeup***](https://blog.rei.my.id/posts/139/dawgctf-2026-i-hate-physics-cryptography-writeup/)
 - 🦋 [***DawgCTF 2026 - Plane Spotting Pt. 3 - OSINT Writeup***](https://blog.rei.my.id/posts/146/dawgctf-2026-plane-spotting-pt-3-osint-writeup/)
 - 🦋 [***TexSAW 2026 - You Snoze You Loze - OSINT Writeup***](https://blog.rei.my.id/posts/119/texsaw-2026-you-snoze-you-loze-osint-writeup/)
-- 🦋 [***TexSAW 2026 - A Different Side Channel - Forensics Writeup***](https://blog.rei.my.id/posts/120/texsaw-2026-a-different-side-channel-forensics-writeup/)
 <!-- BLOG_RSS_END -->
 <img src="./img/mid_profile.png" width="270" align="right" />
 <br/>

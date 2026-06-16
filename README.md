@@ -27,16 +27,16 @@
 <br/>
   
 <!-- BLOG_RSS_START -->
-- 🦋 [***How I Found a Vulnerability in a Vibe-Coded Proxy Site and Built a Fetcher to Exploit It***](https://blog.rei.my.id/posts/147/how-i-found-a-vulnerability-in-a-vibe-coded-proxy-site/)
-- 🦋 [***DawgCTF 2026 - Machine Learnding - Reverse Engineering Writeup***](https://blog.rei.my.id/posts/140/dawgctf-2026-machine-learnding-reverse-engineering-writeup/)
-- 🦋 [***DawgCTF 2026 - Locksmith - OSINT Writeup***](https://blog.rei.my.id/posts/142/dawgctf-2026-locksmith-osint-writeup/)
-- 🦋 [***DawgCTF 2026 - Computer Repair III - OSINT Writeup***](https://blog.rei.my.id/posts/141/dawgctf-2026-computer-repair-iii-osint-writeup/)
-- 🦋 [***DawgCTF 2026 - owo? - OSINT Writeup***](https://blog.rei.my.id/posts/143/dawgctf-2026-owo-osint-writeup/)
-- 🦋 [***DawgCTF 2026 - The Lookout's Legend - OSINT Writeup***](https://blog.rei.my.id/posts/144/dawgctf-2026-the-lookouts-legend-osint-writeup/)
-- 🦋 [***DawgCTF 2026 - Plane Spotting Pt. 1 - OSINT Writeup***](https://blog.rei.my.id/posts/145/dawgctf-2026-plane-spotting-pt-1-osint-writeup/)
-- 🦋 [***DawgCTF 2026 - I Hate Physics! - Cryptography Writeup***](https://blog.rei.my.id/posts/139/dawgctf-2026-i-hate-physics-cryptography-writeup/)
-- 🦋 [***DawgCTF 2026 - Plane Spotting Pt. 3 - OSINT Writeup***](https://blog.rei.my.id/posts/146/dawgctf-2026-plane-spotting-pt-3-osint-writeup/)
-- 🦋 [***TexSAW 2026 - You Snoze You Loze - OSINT Writeup***](https://blog.rei.my.id/posts/119/texsaw-2026-you-snoze-you-loze-osint-writeup/)
+- 🦋 [***SCSC2026 Final - soal gampang - Binary Exploitation Writeup***](https://blog.rei.my.id/posts/148/scsc2026-final-soal-gampang-binary-exploitation-writeup/)
+- 🦋 [***SCSC2026 Final - pwn revenggeeee - Binary Exploitation Writeup***](https://blog.rei.my.id/posts/149/scsc2026-final-pwn-revenggeeee-binary-exploitation-writeup/)
+- 🦋 [***SCSC2026 Final - The Predictable Oracle - Cryptography Writeup***](https://blog.rei.my.id/posts/150/scsc2026-final-the-predictable-oracle-cryptography-writeup/)
+- 🦋 [***SCSC2026 Final - ROT - Cryptography Writeup***](https://blog.rei.my.id/posts/151/scsc2026-final-rot-cryptography-writeup/)
+- 🦋 [***SCSC2026 Final - Paper Leak - Cryptography Writeup***](https://blog.rei.my.id/posts/152/scsc2026-final-paper-leak-cryptography-writeup/)
+- 🦋 [***SCSC2026 Final - Deskripsi Palsu - Cryptography Writeup***](https://blog.rei.my.id/posts/153/scsc2026-final-deskripsi-palsu-cryptography-writeup/)
+- 🦋 [***SCSC2026 Final - ngeDinDaaaaaaaaa - Forensics Writeup***](https://blog.rei.my.id/posts/155/scsc2026-final-ngedindaaaaaaaaa-forensics-writeup/)
+- 🦋 [***SCSC2026 Final - meng AI - Reverse Engineering Writeup***](https://blog.rei.my.id/posts/156/scsc2026-final-meng-ai-reverse-engineering-writeup/)
+- 🦋 [***SCSC2026 Final - API Gateway v2 - Web Writeup***](https://blog.rei.my.id/posts/157/scsc2026-final-api-gateway-v2-web-writeup/)
+- 🦋 [***SCSC2026 Final - Employee Directory - Web Writeup***](https://blog.rei.my.id/posts/160/scsc2026-final-employee-directory-web-writeup/)
 <!-- BLOG_RSS_END -->
 <img src="./img/mid_profile.png" width="270" align="right" />
 <br/>

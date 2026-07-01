@@ -27,16 +27,16 @@
 <br/>
   
 <!-- BLOG_RSS_START -->
-- 🦋 [***SCSC2026 Final - soal gampang - Binary Exploitation Writeup***](https://blog.rei.my.id/posts/148/scsc2026-final-soal-gampang-binary-exploitation-writeup/)
+- 🦋 [***SEKAICTF 2026 - Open World - Blockchain Writeup***](https://blog.rei.my.id/posts/163/sekaictf-2026-open-world-blockchain-writeup/)
+- 🦋 [***SEKAICTF 2026 - Survey - Miscellaneous Writeup***](https://blog.rei.my.id/posts/166/sekaictf-2026-survey-miscellaneous-writeup/)
+- 🦋 [***SEKAICTF 2026 - Outer Stellar - Blockchain Writeup***](https://blog.rei.my.id/posts/164/sekaictf-2026-outer-stellar-blockchain-writeup/)
+- 🦋 [***SEKAICTF 2026 - PP Farming 2 - Blockchain Writeup***](https://blog.rei.my.id/posts/165/sekaictf-2026-pp-farming-2-blockchain-writeup/)
 - 🦋 [***SCSC2026 Final - pwn revenggeeee - Binary Exploitation Writeup***](https://blog.rei.my.id/posts/149/scsc2026-final-pwn-revenggeeee-binary-exploitation-writeup/)
 - 🦋 [***SCSC2026 Final - The Predictable Oracle - Cryptography Writeup***](https://blog.rei.my.id/posts/150/scsc2026-final-the-predictable-oracle-cryptography-writeup/)
+- 🦋 [***SCSC2026 Final - soal gampang - Binary Exploitation Writeup***](https://blog.rei.my.id/posts/148/scsc2026-final-soal-gampang-binary-exploitation-writeup/)
 - 🦋 [***SCSC2026 Final - ROT - Cryptography Writeup***](https://blog.rei.my.id/posts/151/scsc2026-final-rot-cryptography-writeup/)
 - 🦋 [***SCSC2026 Final - Paper Leak - Cryptography Writeup***](https://blog.rei.my.id/posts/152/scsc2026-final-paper-leak-cryptography-writeup/)
 - 🦋 [***SCSC2026 Final - Deskripsi Palsu - Cryptography Writeup***](https://blog.rei.my.id/posts/153/scsc2026-final-deskripsi-palsu-cryptography-writeup/)
-- 🦋 [***SCSC2026 Final - ngeDinDaaaaaaaaa - Forensics Writeup***](https://blog.rei.my.id/posts/155/scsc2026-final-ngedindaaaaaaaaa-forensics-writeup/)
-- 🦋 [***SCSC2026 Final - meng AI - Reverse Engineering Writeup***](https://blog.rei.my.id/posts/156/scsc2026-final-meng-ai-reverse-engineering-writeup/)
-- 🦋 [***SCSC2026 Final - API Gateway v2 - Web Writeup***](https://blog.rei.my.id/posts/157/scsc2026-final-api-gateway-v2-web-writeup/)
-- 🦋 [***SCSC2026 Final - Employee Directory - Web Writeup***](https://blog.rei.my.id/posts/160/scsc2026-final-employee-directory-web-writeup/)
 <!-- BLOG_RSS_END -->
 <img src="./img/mid_profile.png" width="270" align="right" />
 <br/>
